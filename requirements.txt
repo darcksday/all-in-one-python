@@ -1,0 +1,9 @@
+termcolor
+ccxt
+tabulate
+web3==5.31.0
+swap
+tqdm
+pyuseragents
+python-dotenv
+requests
